@@ -1,0 +1,7 @@
+.selectedResearchGallery {
+    font-size: 1.2em;
+    background-color: #e0e0e0;
+    transition: 0.4s;
+    box-shadow: inset 2em 2em 0.8em #e6ee9c, 0.1em 0.3em 0.7em grey;
+
+}

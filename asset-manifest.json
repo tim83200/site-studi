@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/site-studi/static/css/main.8c08d037.css",
+    "main.js": "/site-studi/static/js/main.fb0cfa45.js",
+    "static/js/787.299b3f08.chunk.js": "/site-studi/static/js/787.299b3f08.chunk.js",
+    "static/media/homePageLastVersion.jpg": "/site-studi/static/media/homePageLastVersion.c9d40d919378a8fd568d.jpg",
+    "static/media/Accueil.jpg": "/site-studi/static/media/Accueil.c0d056fea83b97849f08.jpg",
+    "static/media/tim.jpg": "/site-studi/static/media/tim.5e320098ff2fd0b632fe.jpg",
+    "static/media/forTwoPrestations.jpg": "/site-studi/static/media/forTwoPrestations.270d5b16f03bb7d6c4ce.jpg",
+    "static/media/coupleGallery.jpg": "/site-studi/static/media/coupleGallery.459523a09db3666dcfbb.jpg",
+    "static/media/baptismGallery.jpg": "/site-studi/static/media/baptismGallery.8f87c01df5aa300cc7f6.jpg",
+    "static/media/homePageGallery.jpg": "/site-studi/static/media/homePageGallery.8ab7120933b8f28e11b2.jpg",
+    "static/media/babyGallery.jpg": "/site-studi/static/media/babyGallery.52e39ec04fb96b9b7e0a.jpg",
+    "static/media/portraitGallery.jpg": "/site-studi/static/media/portraitGallery.e71f2e30c75b2c9e71a2.jpg",
+    "static/media/famillyPrestations.jpg": "/site-studi/static/media/famillyPrestations.75c710ba96c8bca308fa.jpg",
+    "static/media/immortaliseEventPrestations.jpg": "/site-studi/static/media/immortaliseEventPrestations.a29964ed536381a000b1.jpg",
+    "static/media/onceUpontATimePrestations.jpg": "/site-studi/static/media/onceUpontATimePrestations.ec47ffbccb1506fd4934.jpg",
+    "static/media/onlyMePrestations.jpg": "/site-studi/static/media/onlyMePrestations.af6623cc8040bccaaeed.jpg",
+    "static/media/famillyGallery.jpg": "/site-studi/static/media/famillyGallery.b38b726c86e9e5156091.jpg",
+    "static/media/weddingGallery.jpg": "/site-studi/static/media/weddingGallery.8a9085315ee316ded6e3.jpg",
+    "static/media/pregnancyGallery.jpg": "/site-studi/static/media/pregnancyGallery.b7c37a74fd8a86863c70.jpg",
+    "static/media/babyPrestations.jpg": "/site-studi/static/media/babyPrestations.16a34113f8f60a232904.jpg",
+    "static/media/photographeGallery.jpg": "/site-studi/static/media/photographeGallery.1ef8b3dccc6ac0b614af.jpg",
+    "index.html": "/site-studi/index.html",
+    "main.8c08d037.css.map": "/site-studi/static/css/main.8c08d037.css.map",
+    "main.fb0cfa45.js.map": "/site-studi/static/js/main.fb0cfa45.js.map",
+    "787.299b3f08.chunk.js.map": "/site-studi/static/js/787.299b3f08.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c08d037.css",
+    "static/js/main.fb0cfa45.js"
+  ]
+}
